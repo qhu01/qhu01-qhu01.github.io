@@ -1,0 +1,24 @@
+body {
+	background-color: ivory;
+	font-size: 18px; 
+}
+
+h1 {
+	background-color: indigo; 
+	font-size: 30px; 
+	color: white; 
+	text-align: center; 
+}
+
+p {
+	background-color: powderblue; 
+	font-size: 20px; 
+}
+
+.title {
+	font-weight: bold; 
+}
+
+.time {
+	font-style: italic;
+}
